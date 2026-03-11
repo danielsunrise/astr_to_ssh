@@ -20,6 +20,8 @@
     "SSH_PORT": "22",
     "SSH_USER": "root",
     "SSH_PASSWORD": "在这里填入你的真实密码",
+    "GLOBAL_ADMIN_IDS": "你的管理员ID",
+    "FALLBACK_OPERATOR_ID": "你的管理你的服务器ssh密码",
     "PYTHONUNBUFFERED": "1"
   }
 }
